@@ -1187,7 +1187,7 @@ With the quarantine and state-wide stay-at-home orders in full swing, a lot of u
 
         
         <div class="td_module_10 td_module_wrap td-animation-stack td-meta-info-hide">
-            <div class="td-module-thumb"><a href="https://blog.eatthismuch.com/self-quarantine-meal-planning-thriving-in-isolation/" rel="bookmark" title="Self-Quarantine Meal Planning: Thriving in Isolation"><img width="218" height="150" class="entry-thumb td-animation-stack-type0-2" src="https://blog.eatthismuch.com/wp-content/uploads/2020/03/meal-planning-isolation-header-218x150.jpg" srcset="https://blog.eatthismuch.com/wp-content/uploads/2020/03/meal-planning-isolation-header-218x150.jpg 218w, https://blog.eatthismuch.com/wp-content/uploads/2020/03/meal-planning-isolation-header-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Meal Planning in Quarantine header" title="Self-Quarantine Meal Planning: Thriving in Isolation"></a></div>
+            <div class="td-module-thumb"><a href="https://blog.eatthismuch.com/self-quarantine-meal-planning-thriving-in-isolation/" rel="bookmark" title="Self-Quarantine Meal Planning: Thriving in Isolation"><img width="218" height="150" class="entry-thumb td-animation-stack-type0-1" src="https://blog.eatthismuch.com/wp-content/uploads/2020/03/meal-planning-isolation-header-218x150.jpg" srcset="https://blog.eatthismuch.com/wp-content/uploads/2020/03/meal-planning-isolation-header-218x150.jpg 218w, https://blog.eatthismuch.com/wp-content/uploads/2020/03/meal-planning-isolation-header-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Meal Planning in Quarantine header" title="Self-Quarantine Meal Planning: Thriving in Isolation"></a></div>
             <div class="item-details">
             <h3 class="entry-title td-module-title"><a href="https://blog.eatthismuch.com/self-quarantine-meal-planning-thriving-in-isolation/" rel="bookmark" title="Self-Quarantine Meal Planning: Thriving in Isolation">Self-Quarantine Meal Planning: Thriving in Isolation</a></h3>
                 <div class="td-module-meta-info">
@@ -1330,7 +1330,7 @@ Today we're announcing a time-saving new feature on Eat This Much - Recipe Impor
 <a href="https://play.google.com/store/apps/details?id=com.eatthismuch&amp;hl=en?ref=etmblog&amp;utm_source=etmblog&amp;utm_medium=blog&amp;utm_campaign=" itunes-download-button title="Download Eat This Much on Google Play" target="_blank"><img src="https://blog.eatthismuch.com/wp-content/uploads/2016/06/google-play-badge.png" width="200" height="61" alt="Download Eat This Much on Google Play">
 </a>
 </div></div>
-		</aside><div class="td_block_wrap td_block_social_counter td_block_widget td_uid_2_613e2381c6897_rand td-pb-border-top td_block_template_1"><div class="td-social-list">
+		</aside><div class="td_block_wrap td_block_social_counter td_block_widget td_uid_2_613f75e5b18af_rand td-pb-border-top td_block_template_1"><div class="td-social-list">
 <div class="td_social_type td-pb-margin-side td_social_facebook"><div class="td-social-box">
 <div class="td-sp td-sp-facebook"></div>
 <span class="td_social_info">27,342</span><span class="td_social_info td_social_info_name">Fans</span><span class="td_social_button"><a href="https://www.facebook.com/EatThisMuch" target="_blank">Like</a></span>
@@ -1549,7 +1549,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         Version: 7.8.1 (rara)
         Deploy mode: deploy
         
-        uid: 613e2381c944f
+        uid: 613f75e5b4a15
     -->
 
     
