@@ -2,9 +2,9 @@ GEM
   remote: https://rubygems.org/
   specs:
     childprocess (3.0.0)
-    nokogiri (1.12.4-x86_64-linux)
+    nokogiri (1.13.6-x86_64-linux)
       racc (~> 1.4)
-    racc (1.5.2)
+    racc (1.6.0)
     regexp_parser (2.1.1)
     rubyzip (2.3.2)
     selenium-webdriver (3.142.7)
@@ -22,7 +22,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  nokogiri (~> 1.11, >= 1.11.7)
+  nokogiri (~> 1.13)
   watir (~> 6.19, >= 6.19.1)
   webdrivers (~> 4.6)
 
